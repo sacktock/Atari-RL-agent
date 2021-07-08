@@ -1,0 +1,145 @@
+Starting new training session
+NEW BEST MEAN REWARD --> 235.50
+marking, episode: 100, score: 250.0, mean_score: 235.50, std_score: 239.30
+NEW BEST MEAN REWARD --> 268.50
+marking, episode: 200, score: 500.0, mean_score: 268.50, std_score: 224.13
+marking, episode: 300, score: 250.0, mean_score: 251.50, std_score: 240.57
+marking, episode: 400, score: 200.0, mean_score: 238.50, std_score: 208.07
+NEW BEST MEAN REWARD --> 304.00
+marking, episode: 500, score: 250.0, mean_score: 304.00, std_score: 200.71
+marking, episode: 600, score: 250.0, mean_score: 265.50, std_score: 224.47
+marking, episode: 700, score: 250.0, mean_score: 277.50, std_score: 195.50
+marking, episode: 800, score: 750.0, mean_score: 270.00, std_score: 209.76
+marking, episode: 900, score: 250.0, mean_score: 292.50, std_score: 211.47
+NEW BEST MEAN REWARD --> 351.50
+marking, episode: 1000, score: 250.0, mean_score: 351.50, std_score: 282.79
+marking, episode: 1100, score: 250.0, mean_score: 330.00, std_score: 202.48
+marking, episode: 1200, score: 500.0, mean_score: 345.00, std_score: 244.69
+marking, episode: 1300, score: 250.0, mean_score: 330.50, std_score: 219.53
+NEW BEST MEAN REWARD --> 357.50
+marking, episode: 1400, score: 450.0, mean_score: 357.50, std_score: 253.51
+marking, episode: 1500, score: 250.0, mean_score: 351.50, std_score: 228.96
+NEW BEST MEAN REWARD --> 374.00
+marking, episode: 1600, score: 500.0, mean_score: 374.00, std_score: 282.62
+marking, episode: 1700, score: 250.0, mean_score: 336.50, std_score: 215.39
+NEW BEST MEAN REWARD --> 404.00
+marking, episode: 1800, score: 500.0, mean_score: 404.00, std_score: 232.02
+NEW BEST MEAN REWARD --> 501.00
+marking, episode: 1900, score: 250.0, mean_score: 501.00, std_score: 301.58
+marking, episode: 2000, score: 0.0, mean_score: 404.00, std_score: 253.35
+marking, episode: 2100, score: 350.0, mean_score: 416.00, std_score: 262.10
+marking, episode: 2200, score: 0.0, mean_score: 431.50, std_score: 245.73
+marking, episode: 2300, score: 100.0, mean_score: 365.50, std_score: 236.93
+marking, episode: 2400, score: 250.0, mean_score: 450.00, std_score: 256.71
+marking, episode: 2500, score: 700.0, mean_score: 467.00, std_score: 272.05
+marking, episode: 2600, score: 500.0, mean_score: 485.00, std_score: 334.48
+marking, episode: 2700, score: 350.0, mean_score: 497.50, std_score: 214.75
+Resuming training session from gravitar-save.chkpt
+marking, episode: 2800, score: 500.0, mean_score: 469.50, std_score: 284.95
+marking, episode: 2900, score: 0.0, mean_score: 499.50, std_score: 236.27
+NEW BEST MEAN REWARD --> 554.50
+marking, episode: 3000, score: 200.0, mean_score: 554.50, std_score: 250.61
+marking, episode: 3100, score: 0.0, mean_score: 509.00, std_score: 302.85
+marking, episode: 3200, score: 450.0, mean_score: 499.00, std_score: 245.46
+NEW BEST MEAN REWARD --> 578.00
+marking, episode: 3300, score: 250.0, mean_score: 578.00, std_score: 296.76
+marking, episode: 3400, score: 800.0, mean_score: 565.00, std_score: 307.94
+NEW BEST MEAN REWARD --> 632.00
+marking, episode: 3500, score: 1250.0, mean_score: 632.00, std_score: 279.15
+NEW BEST MEAN REWARD --> 636.00
+marking, episode: 3600, score: 700.0, mean_score: 636.00, std_score: 334.52
+marking, episode: 3700, score: 700.0, mean_score: 621.00, std_score: 253.10
+marking, episode: 3800, score: 600.0, mean_score: 578.00, std_score: 277.25
+NEW BEST MEAN REWARD --> 679.50
+marking, episode: 3900, score: 350.0, mean_score: 679.50, std_score: 366.95
+marking, episode: 4000, score: 800.0, mean_score: 666.00, std_score: 309.83
+marking, episode: 4100, score: 1050.0, mean_score: 643.50, std_score: 272.00
+marking, episode: 4200, score: 600.0, mean_score: 670.50, std_score: 307.66
+NEW BEST MEAN REWARD --> 712.00
+marking, episode: 4300, score: 1050.0, mean_score: 712.00, std_score: 311.86
+NEW BEST MEAN REWARD --> 780.50
+marking, episode: 4400, score: 1000.0, mean_score: 780.50, std_score: 343.87
+NEW BEST MEAN REWARD --> 792.50
+marking, episode: 4500, score: 450.0, mean_score: 792.50, std_score: 374.72
+marking, episode: 4600, score: 950.0, mean_score: 771.00, std_score: 333.03
+NEW BEST MEAN REWARD --> 873.50
+marking, episode: 4700, score: 550.0, mean_score: 873.50, std_score: 411.67
+NEW BEST MEAN REWARD --> 934.50
+marking, episode: 4800, score: 1000.0, mean_score: 934.50, std_score: 413.74
+marking, episode: 4900, score: 1100.0, mean_score: 922.00, std_score: 347.44
+NEW BEST MEAN REWARD --> 1031.50
+marking, episode: 5000, score: 1300.0, mean_score: 1031.50, std_score: 496.92
+Resuming training session from gravitar-save.chkpt
+marking, episode: 5100, score: 750.0, mean_score: 1001.00, std_score: 442.55
+NEW BEST MEAN REWARD --> 1053.50
+marking, episode: 5200, score: 750.0, mean_score: 1053.50, std_score: 568.74
+NEW BEST MEAN REWARD --> 1063.00
+marking, episode: 5300, score: 700.0, mean_score: 1063.00, std_score: 511.99
+NEW BEST MEAN REWARD --> 1165.00
+marking, episode: 5400, score: 700.0, mean_score: 1165.00, std_score: 503.16
+marking, episode: 5500, score: 250.0, mean_score: 1117.50, std_score: 544.99
+marking, episode: 5600, score: 1000.0, mean_score: 982.50, std_score: 476.62
+marking, episode: 5700, score: 1350.0, mean_score: 1090.00, std_score: 464.33
+marking, episode: 5800, score: 1000.0, mean_score: 1087.50, std_score: 485.05
+marking, episode: 5900, score: 1300.0, mean_score: 1070.00, std_score: 481.77
+marking, episode: 6000, score: 650.0, mean_score: 1137.00, std_score: 437.59
+marking, episode: 6100, score: 250.0, mean_score: 1006.50, std_score: 455.56
+NEW BEST MEAN REWARD --> 1207.00
+marking, episode: 6200, score: 750.0, mean_score: 1207.00, std_score: 510.00
+marking, episode: 6300, score: 1800.0, mean_score: 1196.00, std_score: 480.87
+marking, episode: 6400, score: 1350.0, mean_score: 1160.50, std_score: 585.63
+marking, episode: 6500, score: 1850.0, mean_score: 1121.00, std_score: 416.42
+marking, episode: 6600, score: 800.0, mean_score: 1197.00, std_score: 461.24
+marking, episode: 6700, score: 700.0, mean_score: 1094.50, std_score: 372.22
+NEW BEST MEAN REWARD --> 1236.00
+marking, episode: 6800, score: 1550.0, mean_score: 1236.00, std_score: 536.33
+NEW BEST MEAN REWARD --> 1256.00
+marking, episode: 6900, score: 1000.0, mean_score: 1256.00, std_score: 469.38
+marking, episode: 7000, score: 2250.0, mean_score: 1162.50, std_score: 455.10
+marking, episode: 7100, score: 700.0, mean_score: 1184.00, std_score: 443.45
+marking, episode: 7200, score: 450.0, mean_score: 1223.00, std_score: 572.56
+marking, episode: 7300, score: 1200.0, mean_score: 1141.50, std_score: 404.91
+marking, episode: 7400, score: 1650.0, mean_score: 1090.50, std_score: 527.91
+marking, episode: 7500, score: 2350.0, mean_score: 1132.50, std_score: 601.01
+NEW BEST MEAN REWARD --> 1298.50
+marking, episode: 7600, score: 1100.0, mean_score: 1298.50, std_score: 498.22
+Resuming training session from gravitar-save.chkpt
+NEW BEST MEAN REWARD --> 1325.00
+marking, episode: 7700, score: 1500.0, mean_score: 1325.00, std_score: 579.12
+marking, episode: 7800, score: 1350.0, mean_score: 1272.50, std_score: 557.56
+marking, episode: 7900, score: 1700.0, mean_score: 1190.00, std_score: 489.95
+marking, episode: 8000, score: 1100.0, mean_score: 1206.00, std_score: 457.89
+marking, episode: 8100, score: 1700.0, mean_score: 1178.00, std_score: 460.45
+marking, episode: 8200, score: 2000.0, mean_score: 1284.50, std_score: 455.67
+marking, episode: 8300, score: 1100.0, mean_score: 1227.00, std_score: 552.15
+Resuming training session from gravitar-save.chkpt
+marking, episode: 8600, score: 1950.0, mean_score: 1264.00, std_score: 509.37
+NEW BEST MEAN REWARD --> 1326.00
+marking, episode: 8700, score: 1500.0, mean_score: 1326.00, std_score: 419.97
+marking, episode: 8800, score: 1150.0, mean_score: 1298.00, std_score: 519.56
+NEW BEST MEAN REWARD --> 1380.50
+marking, episode: 8900, score: 1250.0, mean_score: 1380.50, std_score: 607.86
+marking, episode: 9000, score: 850.0, mean_score: 1257.50, std_score: 485.56
+marking, episode: 9100, score: 600.0, mean_score: 1146.00, std_score: 454.13
+NEW BEST MEAN REWARD --> 1447.00
+marking, episode: 9200, score: 1350.0, mean_score: 1447.00, std_score: 610.57
+marking, episode: 9300, score: 800.0, mean_score: 1221.00, std_score: 514.84
+marking, episode: 9400, score: 2150.0, mean_score: 1322.00, std_score: 507.12
+marking, episode: 9500, score: 1500.0, mean_score: 1378.50, std_score: 559.34
+marking, episode: 9600, score: 1950.0, mean_score: 1248.00, std_score: 568.55
+marking, episode: 9700, score: 300.0, mean_score: 1336.00, std_score: 520.82
+marking, episode: 9800, score: 1200.0, mean_score: 1320.00, std_score: 487.90
+marking, episode: 9900, score: 1200.0, mean_score: 1301.50, std_score: 447.91
+marking, episode: 10000, score: 1450.0, mean_score: 1302.50, std_score: 562.64
+marking, episode: 10100, score: 1950.0, mean_score: 1329.00, std_score: 575.90
+marking, episode: 10200, score: 1100.0, mean_score: 1139.00, std_score: 405.68
+marking, episode: 10300, score: 1200.0, mean_score: 1330.50, std_score: 532.40
+marking, episode: 10400, score: 450.0, mean_score: 1263.50, std_score: 497.64
+marking, episode: 10500, score: 1450.0, mean_score: 1211.50, std_score: 434.68
+marking, episode: 10600, score: 2150.0, mean_score: 1335.50, std_score: 453.89
+marking, episode: 10700, score: 1950.0, mean_score: 1211.50, std_score: 549.31
+marking, episode: 10800, score: 1650.0, mean_score: 1280.00, std_score: 497.54
+marking, episode: 10900, score: 1500.0, mean_score: 1210.00, std_score: 446.77
+marking, episode: 11000, score: 2050.0, mean_score: 1414.50, std_score: 656.97
+marking, episode: 11100, score: 1500.0, mean_score: 1385.00, std_score: 538.45
+marking, episode: 11200, score: 1750.0, mean_score: 1348.50, std_score: 571.42
